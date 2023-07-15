@@ -16,7 +16,13 @@ body {
     font-weight: 700;
     padding: 18px 35px;
 }
+#btn-bg{
+    background: none;
+    color: #FD6E0A;
+    border: 2px solid #FD6E0A;
+    margin-left: 25px;
 
+}
 nav {
     display: flex;
     justify-content: space-between;
@@ -45,6 +51,7 @@ nav li {
 nav a {
     text-decoration: none;
     color: #474747;
+    font-size: larger;
 }
 
 /* Header style */
